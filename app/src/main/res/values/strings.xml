@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SmartApp</string>
+
+    <string name="home_header_string">Cat Facts</string>
+</resources>
